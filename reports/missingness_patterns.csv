@@ -1,0 +1,15 @@
+pattern,rows,percent
+No missing values,60,50.0
+monthly_income,16,13.33
+visits_per_month,12,10.0
+satisfaction_score,9,7.5
+age,6,5.0
+membership,5,4.17
+city,4,3.33
+"age, monthly_income, city",2,1.67
+"visits_per_month, satisfaction_score",1,0.83
+"monthly_income, satisfaction_score",1,0.83
+"age, membership",1,0.83
+"monthly_income, visits_per_month",1,0.83
+"monthly_income, membership",1,0.83
+"satisfaction_score, membership",1,0.83

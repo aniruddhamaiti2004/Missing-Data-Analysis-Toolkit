@@ -1,0 +1,9 @@
+strategy,rows_after,cells_missing_after,missing_cells_filled,rows_removed
+drop_rows,60,0,70,60
+auto,120,0,70,0
+mean,120,0,70,0
+median,120,0,70,0
+mode,120,0,70,0
+constant,120,0,70,0
+ffill,120,0,70,0
+bfill,120,1,69,0

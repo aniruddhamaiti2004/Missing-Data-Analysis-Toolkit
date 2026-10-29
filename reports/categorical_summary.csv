@@ -1,0 +1,4 @@
+column,non_missing_count,unique_categories,most_frequent_value,most_frequent_count,missing_count
+customer_id,120,120,C0001,1,0
+membership,112,3,Basic,62,8
+city,114,4,Siliguri,31,6

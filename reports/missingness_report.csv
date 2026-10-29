@@ -1,0 +1,8 @@
+column,dtype,missing_count,missing_percent,unique_non_missing
+monthly_income,float64,21,17.5,99
+visits_per_month,float64,14,11.67,10
+satisfaction_score,float64,12,10.0,5
+age,float64,9,7.5,43
+membership,str,8,6.67,3
+city,str,6,5.0,4
+customer_id,str,0,0.0,120

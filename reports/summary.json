@@ -1,0 +1,8 @@
+{
+  "rows": 120,
+  "columns": 7,
+  "total_cells": 840,
+  "missing_cells": 70,
+  "overall_missing_percent": 8.33,
+  "columns_with_missing_values": 6
+}
